@@ -9,7 +9,7 @@
 /// The data used in tree
 struct data {
   // int this example, VALUE will be the primary key, (just because work with
-  // int is more sample)
+  // int is more easy)
   int value;
   char name[255];
 };
